@@ -1,0 +1,11 @@
+erlang-p1-mysql (0.2014.03.10-2) unstable; urgency=medium
+
+  * Add correct Erlang dependencies
+
+ -- Philipp Huebner <debalance@debian.org>  Sat, 10 May 2014 12:38:40 +0200
+
+erlang-p1-mysql (0.2014.03.10-1) unstable; urgency=low
+
+  * Initial release, see #744885 for background
+
+ -- Philipp Huebner <debalance@debian.org>  Sun, 13 Apr 2014 14:38:02 +0200
