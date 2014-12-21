@@ -1,6 +1,8 @@
 erlang-p1-mysql (0.2014.10.16-1) unstable; urgency=medium
 
+  * Maintaining this package in https://apt.jabber.at.
   * Imported Upstreeam version 0.2014.10.16
+  * Add VCS-* fields in debian/control.
 
  -- Mathias Ertl <mati@jabber.at>  Sun, 21 Dec 2014 12:40:14 +0100
 
