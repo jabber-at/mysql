@@ -1,3 +1,9 @@
+erlang-p1-mysql (0.2014.10.16-1) unstable; urgency=medium
+
+  * Imported Upstreeam version 0.2014.10.16
+
+ -- Mathias Ertl <mati@jabber.at>  Sun, 21 Dec 2014 12:40:14 +0100
+
 erlang-p1-mysql (0.2014.03.10-2) unstable; urgency=medium
 
   * Add correct Erlang dependencies
