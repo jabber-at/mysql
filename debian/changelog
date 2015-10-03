@@ -4,6 +4,8 @@ erlang-p1-mysql (0.2015.09.29-0.1) unstable; urgency=medium
   * Use Debian revision 0.1 so official packages would override this package.
   * Add Philipp Huebner as X-Orig-Maintainer.
   * Ignore vim swap files in debian/.
+  * Add erlang-syntax-tools as build dependency, so that the package also
+    builds on Ubuntu Wily.
 
  -- Mathias Ertl <mati@jabber.at>  Sat, 03 Oct 2015 14:11:02 +0200
 
