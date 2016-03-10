@@ -4,6 +4,7 @@ erlang-p1-mysql (1.0.1-0.1) unstable; urgency=medium
   * This package now uses the upstream
     https://github.com/processone/p1_mysql, in line with what ejabberd
     uses.
+  * Conflicts with ejabberd << 1:16.02
 
  -- Mathias Ertl <mati@jabber.at>  Thu, 10 Mar 2016 10:41:39 +0100
 
