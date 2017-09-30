@@ -6,10 +6,11 @@ Files: *
 Copyright: 2001-2004 Kungliga Tekniska Högskolan
                 (Royal Institute of Technology, Stockholm, Sweden)
            2004 Sektionen för IT och media, Stockholms universitet
-	   2005 Magnus Ahltorp <ahltorp@nada.kth.se>
-	   2005 Fredrik Thulin <ft@it.su.se>
-	   2006-2014 Mickael Remond <mickael.remond@process-one.net>
-	   2013-2014 Evgeniy Khramtsov <ekhramtsov@process-one.net>
+           2005 Magnus Ahltorp <ahltorp@nada.kth.se>
+           2005 Fredrik Thulin <ft@it.su.se>
+           2006-2017 ProcessOne
+           2006-2017 Mickael Remond <mickael.remond@process-one.net>
+           2013-2017 Evgeniy Khramtsov <ekhramtsov@process-one.net>
 License: BSD-3-Clause
  Redistribution and use in source and binary forms, with or
  without modification, are permitted provided that the following
@@ -43,8 +44,30 @@ License: BSD-3-Clause
  OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
  EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+Files: rebar.config rebar.config.script src/p1_mysql.app.src
+Copyright: 2002-2017 ProcessOne
+           2013-2017 Evgeniy Khramtsov <ekhramtsov@process-one.net>
+           2015-2017 Mickael Remond <mremond@process-one.net>
+License: Apache-2.0
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ .
+ http://www.apache.org/licenses/LICENSE-2.0
+ .
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ .
+ On Debian systems, the full text of the Apache License version 2.0
+ can be found in the file
+ `/usr/share/common-licenses/Apache-2.0'.
+
 Files: debian/*
-Copyright: 2014 Philipp Huebner <debalance@debian.org>
+Copyright: 2014-2017 Philipp Huebner <debalance@debian.org>
+           2014-2017 Mathias Ertl <mati@jabber.at>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
