@@ -1,6 +1,6 @@
 Source: erlang-p1-mysql
 Maintainer: Mathias Ertl <mati@jabber.at>
-X-Orig-Maintainer: Philipp Huebner <debalance@debian.org>
+X-Orig-Maintainer: Ejabberd Packaging Team <ejabberd@packages.debian.org>
 Section: libs
 Priority: optional
 Build-Depends: debhelper (>= 11~),

@@ -4,6 +4,8 @@ erlang-p1-mysql (1.0.6-0.1) unstable; urgency=medium
   * Updated Standards-Version: 4.1.4 (no changes needed)
   * Use secure copyright format uri in debian/copyright
   * Switched to debhelper 11
+  * Set Orig-Maintainer: Ejabberd Packaging Team
+    <ejabberd@packages.debian.org>
   * Updated years in debian/copyright
   * Merge debian/source/lintian-overrides from upstream
   * Add lintian-override for unknown-field-in-dsc
