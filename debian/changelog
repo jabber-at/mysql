@@ -1,6 +1,8 @@
 erlang-p1-mysql (1.0.6-0.1) unstable; urgency=medium
 
   * New upstream version 1.0.6
+  * Merge debian/source/lintian-overrides from upstream
+  * Add lintian-override for unknown-field-in-dsc
 
  -- Mathias Ertl <mati@jabber.at>  Mon, 27 Aug 2018 12:55:36 +0200
 

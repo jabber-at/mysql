@@ -1,1 +1,4 @@
-source: maintainer-upload-has-incorrect-version-number
+erlang-p1-mysql source: debian-watch-does-not-check-gpg-signature
+erlang-p1-mysql source: maintainer-upload-has-incorrect-version-number
+erlang-p1-mysql source: testsuite-autopkgtest-missing
+erlang-p1-mysql source: unknown-field-in-dsc orig-maintainer
