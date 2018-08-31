@@ -10,7 +10,7 @@ erlang-p1-mysql (1.0.6-0.1) unstable; urgency=medium
   * Updated years in debian/copyright
   * Merge debian/source/lintian-overrides from upstream
   * Add lintian-override for unknown-field-in-dsc
-  * Reenable eunit since Ubuntu 16.04 is no longer supported
+  * Re-enable eunit since Ubuntu 16.04 is no longer supported
   * Add erlang-base (>= 1:19.2), erlang-crypto and erlang-eunit as
     Build-Depends
 
