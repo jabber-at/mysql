@@ -1,3 +1,9 @@
+erlang-p1-mysql (1.0.8-0.1) unstable; urgency=medium
+
+  * New upstream version 1.0.8
+
+ -- Mathias Ertl <mati@jabber.at>  Sat, 29 Dec 2018 23:23:34 +0100
+
 erlang-p1-mysql (1.0.7-0.1) unstable; urgency=medium
 
   * New upstream version 1.0.7
